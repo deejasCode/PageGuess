@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background">#F8F4EF</color>
+    <color name="primary">#8B4513</color>
+    <color name="primary_dark">#6B3410</color>
+    <color name="text_primary">#2C2C2C</color>
+    <color name="text_secondary">#888888</color>
+    <color name="correct">#4CAF50</color>
+    <color name="incorrect">#F44336</color>
+    <color name="streak_gold">#FFC107</color>
+    <color name="white">#FFFFFF</color>
+</resources>
